@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vangus-dcdda5d9.zappy5.app/sitemap.xml
